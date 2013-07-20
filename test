@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>练习</title>
+</head>
+<body>
+<h1>1----标题</h1>
+<h2>2----标题</h2>
+<h3>3----标题</h3>
+<h4>4----标题</h4>
+<h5>5----标题</h5>
+<h6>6----标题</h6>
+<p>duanluo</p>
+<img src="image/bdlogo.gif">
+<a href="#end" target="_blank">logo baidu</a>
+<a href="http://baidu.com" >baidu go</a>
+<br><br>
+<ul>
+    <li>新闻</li>
+    <li>体育</li>
+</ul>
+<dl>
+    <dt>英语</dt>
+    <dd>是一门语言</dd>
+    <dt>百度</dt>
+    <dd>一个网站</dd>
+</dl>
+<p id="end">finish</p>
+</body>
+</html>
